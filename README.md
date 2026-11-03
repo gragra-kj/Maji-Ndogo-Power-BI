@@ -8,6 +8,24 @@ Using Power BI, I developed an interactive multi-page dashboard to explore water
 
 The project demonstrates data modeling, data visualization, analytical thinking, and the use of Power BI to communicate insights from a real-world data problem.
 
+
+## Dashboard Preview
+
+### Overview
+![Maji Ndogo Overview](screenshots/overview.png)
+
+### Sources
+![Water Sources](screenshots/sources.png)
+
+### Towns
+![Water Access by Town](screenshots/towns.png)
+
+### Infrastructure
+![Infrastructure Analysis](screenshots/infrastructure.png)
+
+### Recommendations
+![Recommendations](screenshots/recommendations.png)
+
 ## Business Problem
 
 Access to safe and reliable water is an important development challenge. Understanding where people obtain water, how many people are affected by unsafe access, and where infrastructure improvements may be needed can help stakeholders make more informed decisions.
